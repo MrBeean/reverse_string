@@ -12,9 +12,13 @@
 		Уже присутствует в классе String
 		[reverse (String) - APIdock](https://apidock.com/ruby/String/reverse)
 		В данном примере напишем через Array
-- Rspec tests
+- Rspec tests (опционально)
 
 # Окружение и запуск
 
-Ruby version 2.5.1
-Запуска как такового нет, сам метод тут `lib/reverse_string.rb` тесты тут `spec/reverse_string_spec.rb`
+Ruby 2.5.1 
+
+RSpec 3.8
+
+
+Запуска как такового нет, сам метод тут `reverse_string.rb` тесты тут `spec/reverse_string_spec.rb`
